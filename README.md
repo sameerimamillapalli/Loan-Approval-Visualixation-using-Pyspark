@@ -4,7 +4,7 @@
 
 
 * [Screenshots](#screenshots)
-
+* [Technologies](#technologies)
 
 
 ## Screenshots
@@ -13,7 +13,7 @@
   <img src="dash2.jpeg"><br>
 </p>
 
-* [Technologies](#technologies)
+
 
 
 ## Technologies
