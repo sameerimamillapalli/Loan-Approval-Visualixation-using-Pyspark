@@ -18,10 +18,10 @@
 
 ## Technologies
 <p>
-<li>
-  <ul>Py-Spark</ul>
-  <ul>Spark Cluster</ul>
-  <ul>Databricks Platform</ul>
-  </li>
+<ul>
+  <li>Py-Spark</li>
+  <li>Spark Cluster</li>
+  <li>Databricks Platform</li>
+  </ul>
 </p>
 
