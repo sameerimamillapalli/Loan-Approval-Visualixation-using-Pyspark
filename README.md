@@ -11,6 +11,17 @@
 <p align="center">
 <img src="dash1.jpeg"><br>
   <img src="dash2.jpeg"><br>
-  
-  
 </p>
+
+* [Technologies](#technologies)
+
+
+##Technologies
+<p>
+<li>
+  <ul>Py-Spark</ul>
+  <ul>Spark Cluster</ul>
+  <ul>Databricks Platform</ul>
+  </li>
+</p>
+
