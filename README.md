@@ -9,8 +9,8 @@
 
 ## Screenshots
 <p align="center">
-<img src="Dash.PNG"><br>
-  <img src="country.png"><br>
-  <img src="box.jpg"><br>
+<img src="dash1.jpeg"><br>
+  <img src="dash2.jpeg"><br>
+  
   
 </p>
